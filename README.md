@@ -1,6 +1,8 @@
 # Data-Structure-HW  
 build executable files   
-''' make '''
+'''
+make
+'''
 **make clean** : remove executable files  
 **./run.sh** : run experiments  
   
