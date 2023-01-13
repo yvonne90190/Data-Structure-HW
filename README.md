@@ -1,9 +1,14 @@
 # Data-Structure-HW  
-build executable files   
+To build executable files :
 ```
 make
 ```
-**make clean** : remove executable files  
-**./run.sh** : run experiments  
-  
+To remove executable files :
+```
+make clean 
+```
+To run experiments :
+```
+./run.sh 
+```
 experiment results are store in **.csv** files  
