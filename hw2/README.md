@@ -1,4 +1,4 @@
-# 比較insertion sort, merge sort, 三種randomized quick sort (Lomuto Partition, Hoare Partition, 與3-Way Partition)與Counting sort
+# Compare Insertion Sort, Merge Sort, Quick Sort (Lomuto Partition/ Hoare Partition/ 3-Way Partition), and Counting Sort
 
 ## 比較方法
 計算上述演算法在input array 大小為2^k時（k = 15, 16, …, 30）的平均執行時間。針對每個input array 大小，分別產生10 個input array，最後取10 次執行時間的平均。若執行時間超過1小時或無法測試到n=2^30，請估計執行時間，並解釋你的估計方法。
