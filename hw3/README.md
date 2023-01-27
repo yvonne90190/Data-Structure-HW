@@ -1,4 +1,4 @@
-# 比較B-tree (或B+tree)、treap、skip list、array of sorted arrays、hash table。
+# Compare B-tree, treap, skip list, array of sorted arrays, and hash table
 
 ## 每種資料結構新增資料所需時間
 - 針對每種資料結構，先產生一個空的資料結構。
