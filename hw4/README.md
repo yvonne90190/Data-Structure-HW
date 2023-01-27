@@ -1,11 +1,10 @@
 # Study the Properties of "Small World" and Compare Different Dyjkstra Implementation
 
 ## Steps
+Use 2 different structures of heaps. (array and bionomial heap)  
 1.	Generate a cycle of 1000 nodes. Each edge has length 1.
 2.	Add 𝑥 random edges. Each random edge has the same length 𝑦. 
 3.	Sample 𝑧 pairs of source and destination, and compute the average shortest distance (𝑑) of these 𝑧 source-destination pairs.  
-  
-Use 2 different structures of heaps. (array and heap)  
   
 ## Report contain
 1.	A picture of the graph with 𝑥 = 100.
