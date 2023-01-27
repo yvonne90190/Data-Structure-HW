@@ -6,7 +6,7 @@
 ## Input array 產生方法
 陣列的每個數字都從1~1000 中的正整數中隨機選擇，且每個數字被選到的機率都相同（0.001）。
 
-## [Report](https://github.com/yvonne90190/Data-Structure-HW/blob/main/hw2/HW2_Report.docx) 
+## Report 
 1. 一個折線圖（包含6 條折線）。折線圖的x 軸為陣列大小，y 軸為對應的平均執行時間。每個排序方法用一條折線表示其執行時間。請解釋你的實驗結果。
 2. 每個Sorting 演算法的程式碼來源。
 
