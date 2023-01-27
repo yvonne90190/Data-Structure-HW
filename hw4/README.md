@@ -19,3 +19,5 @@ compile and run experiments:
 ```
 ./run.sh
 ```
+experiments' raw data results are stored in **.csv** files  
+image of the "Small World" are in directory : ResultPhoto
