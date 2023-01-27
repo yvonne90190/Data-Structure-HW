@@ -27,4 +27,4 @@ To run experiments :
 ```
 ./run.sh 
 ```
-experiment results are stored in **.csv** files  
+experiments' raw data are stored in **.csv** files  
