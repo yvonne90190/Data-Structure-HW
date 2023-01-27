@@ -23,3 +23,18 @@
 -	資料結構程式碼及其來源
 -	實驗程式碼（含新增與搜尋的程式碼範例）與使用說明。
 -	心得、疑問、與遇到的困難
+
+## Execution
+To complie files :
+```
+make
+```
+To remove executable files :
+```
+make clean 
+```
+To run experiments :
+```
+./run.sh 
+```
+experiments' raw data results are stored in **.csv** files  
